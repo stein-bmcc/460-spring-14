@@ -1,0 +1,53 @@
+/*
+Theme Name: Base Foundation
+Author: Christopher Stein
+Author URI: http://bit.ly/460spring14
+Description: This is a base style for using Foundation. It adds more in some places (multiple navigations) and less in others (not complete content) than your theme should have. This is meant to serve as a reference for what you need in functions.php, header and footer and give some examples of how the grid works.
+Version: 1.0
+*/
+
+
+
+/* 
+	This is where you add your own CSS. I've added some styling for the base fonts and links as an example to get your started
+*/
+
+body{
+	font-family: Lato,sans-serif;
+	font-weight: 400;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+h1{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+h2{
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size:1.5em;
+}
+
+h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 1.3em;
+}
+
+
+a:hover, a:focus {
+	color: orange;
+}
+a:hover {
+	cursor: pointer;
+}
+a {
+	color: green;
+	text-decoration: none;
+	line-height: inherit;
+}
+
+
+/
