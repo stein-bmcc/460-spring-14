@@ -7,8 +7,8 @@
 
 .work-thumb {
     position: relative;
-    width: 266px;
-    height: 180px;
+    width: 100%;
+    height: auto;
     border: 5px solid #000;
     overflow: hidden;
 }
@@ -53,6 +53,6 @@
 }
 
 a:hover .info-reveal, a:focus .info-reveal {
-    max-height: 240px; 
+    max-height: 100%; 
 }
 
