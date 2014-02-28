@@ -39,7 +39,7 @@ Add your content below. Delete this if you like
 	</div>
 
 	<!-- post info -->
-	<div class="medium-8 large-4 columns">
+	<div class="medium-4 large-4 columns">
 		<!-- This content would be 4 columns wide on medium and large screens, 12 columns wide on small screens -->
 	</div>
 

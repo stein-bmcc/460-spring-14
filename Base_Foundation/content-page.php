@@ -41,7 +41,7 @@ Add your content below. Delete this and everything above or it will show up in y
 	</div><!-- end row title-content -->
 
 <!-- row featured image -->
-	<div class="medium-8 large-4 columns">
+	<div class="medium-4 large-4 columns">
 		<?php the_post_thumbnail('feature-image' ); ?>
 	</div>
 </div> <!-- end row featured image -->
