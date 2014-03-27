@@ -15,5 +15,8 @@ We don't need an if/else statement with page.php because if the post doesn't sho
 WP will send a 404 message and 404.php will be called instead. 
 -->
 
+<!-- OPTIONAL SIDEBAR -->
+<?php get_sidebar( ); ?>
+
 <!-- Show the footer -->
 <?php get_footer();?>
